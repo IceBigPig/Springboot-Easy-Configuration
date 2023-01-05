@@ -37,7 +37,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/aurora?serverTimezone=GMT%2B8&allowMultiQueries=true&autoReconnect=true&rewriteBatchedStatements=true
     username: root
-    password: 123456
+    password: qiang123
     # HikariCP 自定义配置，对应 HikariConfig 配置属性类
     hikari:
       # 池中维护的最小空闲连接数，默认为 10 个。
