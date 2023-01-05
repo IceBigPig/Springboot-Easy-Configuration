@@ -12,4 +12,4 @@
 - Validation注解配置
 - Mybatis-Plus配置
 - 数据库连接池配置
-
+- 跨域拦截请求配置
